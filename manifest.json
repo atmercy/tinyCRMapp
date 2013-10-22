@@ -1,0 +1,23 @@
+{
+	"manifest_version": 2,
+    "name": "Case Creator",
+    "version": "1.0",
+    "description": "Case Creator",
+   
+   "app": {
+         "background": {
+	         "scripts": ["background.js"]
+		}
+	},	
+   "icons": {
+         "128": "images/case-128.png",
+         "48": "images/case-48.png",
+		 "16": "images/case-16.png"
+	},
+   
+   "author": "MikeT",
+   
+   "permissions": [
+		 "webview" 
+    ]
+}
