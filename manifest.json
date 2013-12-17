@@ -1,8 +1,8 @@
 {
-	"manifest_version": 2,
-    "name": "Case Creator",
-    "version": "1.0",
-    "description": "Case Creator",
+   "manifest_version": 2,
+   "name": "Case Creator",
+   "version": "1.0",
+   "description": "Case Creator",
    
    "app": {
          "background": {
